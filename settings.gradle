@@ -1,3 +1,4 @@
 rootProject.name = "MiLibreriaTest"
 include ':app'
 include ':LibreriaCalculadora'
+include ':LibreriaEditor'
